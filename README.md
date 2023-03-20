@@ -10,6 +10,7 @@ WeRateDogs has over a million followers and has received international media cov
 The main objective of this project is to perform analysis on the WeRateDog tweets from 2015 - 2017, which involves gathering, assessing and cleaning the dataset.
 
 Data Gathering
+
 Three different sources of data were used for this project
 
 twitter_archive_enchanced.csv directly downloaded from the udacity server
@@ -19,6 +20,7 @@ tweet image prediction(image_predictions.tsv) downloaded using the request libar
 tweet_json downloaded directly because twitter did not approve my developer account
 
 Conclusion
+
 Data analysis can provide us with valuable insights that can help us improve our performance in 
 any field. 
 By understanding which breeds and dog stages are most popular, which devices are used to 
